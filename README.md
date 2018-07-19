@@ -1,4 +1,4 @@
-# ender-3-abl-firmware
+# ender-3-marlin-abl-firmware
 
 Stock Sketch CR-10 Configs - 125112 bytes (96%)
 
